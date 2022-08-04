@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:ital,wght@0,500;1,300&family=Red+Rose:wght@500&family=Roboto:wght@500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&family=Poppins:ital,wght@0,500;1,300&family=Red+Rose:wght@500&family=Roboto:wght@500;900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    background-size: cover;
+    color: aqua;
+    background-position: 0px 200px;
+    background-color: #413839;
+}
+nav{
+    background-color: #413839;
+    height: 413px;
+    width: 100%;
+}
+button{
+    background-color: #413839;
+    color: #f5c71a;
+    float: right;
+    margin-left: 1280px;
+    margin-top: 35px;
+    position: absolute;
+    padding: 14px 25px;
+    border-radius: 14px;
+    border: none;
+    border: 2px solid #f5c71a;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 20px;
+}
+ul{
+    float: right;
+    list-style: none;
+    margin-right: 311px;
+}
+ul li{
+    display: inline-block;
+    padding: 0 24px;
+    margin-top: 51px;
+    color: #d2a6a6;
+    cursor: pointer;
+    font-size: 20px;
+}
+ul li:hover{
+    font-weight: 800;
+    color: aqua;
+}
+.logo{
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 128px;
+}
+.hero{
+    position: absolute;
+    margin-top: -172px;
+}
+div > p{
+    float: right;
+    margin: -30px;
+    width: 520px;
+    margin-left: 902px;
+    font-size: 25px;
+}
+.hero-heading {
+    position: absolute;
+    width: 676px;
+    margin-left: 148px;
+    font-size: 81px;
+    margin-top: -63px;
+}
+
+
+
